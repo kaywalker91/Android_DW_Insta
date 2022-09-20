@@ -47,7 +47,7 @@
             android:layout_marginBottom="30dp"
             android:background="@drawable/button_round"
             android:id="@+id/upload"
-            android:text="Upload Image"
+            android:text="Upload the Image"
             android:layout_height="wrap_content">
         </Button>
 
