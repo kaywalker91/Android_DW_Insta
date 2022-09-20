@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/drawable/button_round.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/drawable/ic_baseline_add_to_photos_24.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_add.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_center.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_chat.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_home.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_intro.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_new.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_pw.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_register.xml" value="0.3515625" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_start.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_update.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_user.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/activity_user_list.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/changeimage.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/fragment_board.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/fragment_desc.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/fragment_frag__list.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/fragment_profile.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/imageloader.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/list_item.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/layout/singlerowdesign.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/NewOne/app/src/main/res/menu/menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_add.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_center.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_chat.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_full_screen.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_home.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_image_test.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_intro.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_main.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_new.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_pw.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_register.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_start.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/activity_user.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/changeimage.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/fragment_board.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/fragment_desc.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/fragment_frag_list.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/fragment_home.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/fragment_profile.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/imageloader.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/list_item.xml" value="0.3605072463768116" />
+        <entry key="..\:/AndroidStudioProjects/NewOne_Ver2.3/app/src/main/res/layout/singlerowdesign.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/drawable-v24/button_white.xml" value="0.2985" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/drawable/button_black.xml" value="0.2985" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/drawable/button_flat.xml" value="0.2985" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/drawable/button_insta.xml" value="0.2985" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/drawable/button_round.xml" value="0.2985" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/drawable/ic_baseline_add_to_photos_24.xml" value="0.2985" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/drawable/ic_baseline_image_search_24.xml" value="0.2985" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/drawable/message_bg.xml" value="0.2985" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/drawable/textbox.xml" value="0.2985" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_add.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_center.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_chat.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_full_screen.xml" value="0.3515625" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_home.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_image_test.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_intro.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_new.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_pw.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_register.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_start.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/activity_user.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/changeimage.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/fragment_board.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/fragment_desc.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/fragment_frag_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/fragment_home.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/fragment_profile.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/imageloader.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/list_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/layout/singlerowdesign.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/menu/menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver1.7/app/src/main/res/xml/paths.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.4_DWInsta/app/src/main/res/layout/fragment_desc.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.4_DWInsta/app/src/main/res/layout/imageloader.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.4_DWInsta/app/src/main/res/layout/singlerowdesign.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_add.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_center.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_chat.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_full_screen.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_home.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_image_test.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_intro.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_new.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_pw.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_register.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_start.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/activity_user.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/changeimage.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/fragment_board.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/fragment_desc.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/fragment_frag_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/imageloader.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/list_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AndroidStudioProjects/NewOne_Ver2.5_DWInsta/app/src/main/res/layout/singlerowdesign.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/DW/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
