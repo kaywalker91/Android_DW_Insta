@@ -32,11 +32,12 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
 
     private EditText et_email,et_pw;
     private Button btn_mvRegi,btn_mvPw,btn_login;
-
     private ImageView signInButton;
+
     private FirebaseAuth auth;
     private DatabaseReference databaseReference;
     private GoogleApiClient googleApiClient;
+
     private static final int REQ_SIGN_GOOGLE = 100;
 
     @Override
@@ -146,6 +147,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
                 .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
+
                         if(task.isSuccessful()){// 로그인이 성공했으면
                             Toast.makeText(MainActivity.this, "로그인 성공", Toast.LENGTH_SHORT).show();
                             Intent intent = new Intent(getApplicationContext(),HomeActivity.class);
@@ -155,6 +157,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
                         }else{
                             Toast.makeText(MainActivity.this, "로그인 실패", Toast.LENGTH_SHORT).show();
                         }
+
                     }
                 });
     }

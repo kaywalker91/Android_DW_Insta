@@ -21,8 +21,9 @@ import com.kaywalker.newone.model.UserAccount;
 
 public class RegisterActivity extends AppCompatActivity {
 
-    FirebaseAuth firebaseAuth;
+    private FirebaseAuth firebaseAuth;
     private DatabaseReference databaseReference;
+
     private EditText et_email,et_pw;
     private Button btn_regi;
 

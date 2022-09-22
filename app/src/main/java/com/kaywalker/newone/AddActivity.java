@@ -32,6 +32,7 @@ public class AddActivity extends AppCompatActivity {
     FirebaseStorage fStore;
     FirebaseDatabase fDatabase;
     DatabaseReference dRef;
+
     Button chooser,uploader,viewListimg;
     ImageView imgLoader;
     int PIKE_IMAGE_CODE = 200;

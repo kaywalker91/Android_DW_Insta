@@ -25,12 +25,12 @@ import com.kaywalker.newone.UserActivity;
 public class Frag_Profile extends Fragment {
 
     private View view;
-
     private FirebaseAuth firebaseAuth;
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+
         view = inflater.inflate(R.layout.fragment_profile, container, false);
 
         firebaseAuth = FirebaseAuth.getInstance();
@@ -75,5 +75,7 @@ public class Frag_Profile extends Fragment {
         });
 
         return view;
+
     }
+
 }

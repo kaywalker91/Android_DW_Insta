@@ -42,7 +42,7 @@ public class Frag_Home extends Fragment {
 
     RecyclerView recyclerView;
     FirebaseDatabase firebaseDatabase;
-    private RecyclerView.LayoutManager mLayoutManager;
+    RecyclerView.LayoutManager mLayoutManager;
     DatabaseReference dRef;
     ImageAdapter adapter;
     List<Image> imgList;
@@ -58,8 +58,10 @@ public class Frag_Home extends Fragment {
 
         mLayoutManager = new LinearLayoutManager(getContext());
         LinearLayoutManager mLayoutManager = new LinearLayoutManager(getContext());
+
         mLayoutManager.setReverseLayout(true);
         mLayoutManager.setStackFromEnd(true);
+
         recyclerView.setLayoutManager(mLayoutManager);
 
         firebaseDatabase = FirebaseDatabase.getInstance();

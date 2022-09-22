@@ -239,5 +239,4 @@ public class ImageAdapter extends RecyclerView.Adapter<ImageHolder> {
         imgList.add(i,img);
     }
 
-
 }
